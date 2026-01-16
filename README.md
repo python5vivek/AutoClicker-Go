@@ -27,10 +27,3 @@ It was originally created for fun and to help a friend play Minecraft Bedwars mo
 ## 📦 Getting Started
 
 Follow these instructions to get a local copy up and running on your machine.
-
-### 🛠 Prerequisites
-
-Install Go (1.18+ recommended):
-
-```bash
-https://go.dev/doc/install
