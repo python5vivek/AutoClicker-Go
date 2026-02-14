@@ -23,7 +23,3 @@ It was originally created for fun and to help a friend play Minecraft Bedwars mo
 - **RobotGo** – for mouse and keyboard automation
 
 ---
-
-## 📦 Getting Started
-
-Follow these instructions to get a local copy up and running on your machine.
